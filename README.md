@@ -1,12 +1,13 @@
-# Raj Dryfruits & Mukhwas (Ahmedabad)
+# Krishna Dry Fruits & More (Ahmedabad)
 
-Premium digital storefront and WhatsApp inquiry platform for **Raj Dryfruits & Mukhwas**, Ahmedabad.
+Premium digital storefront and WhatsApp inquiry platform for **Krishna Dry Fruits & More**, Ahmedabad.
 
 ## Store Information
-- **Brand**: Raj Dryfruits & Mukhwas
-- **Store Location**: Radha Apartments, Shop No. 4, 100 Feet Anand Nagar Road, Beside Natraj Medical, Jodhpur Village, Ahmedabad, Gujarat 380015
-- **Phone / WhatsApp**: +91 9712698899
-- **Google Rating**: 4.6 ★
+- **Brand**: Krishna Dry Fruits & More
+- **Store Location**: Shop No. 22, Ground Floor, Vandemataram Icon, Vandematram Road, Near Dev Residency, Gota Road, Ahmedabad, Gujarat – 382481
+- **Phone / WhatsApp**: +91 99246 95952
+- **Google Rating**: 4.8 ★
+- **Google Maps**: https://share.google/rOEHhcSuYzcu0o2fx
 
 ---
 
@@ -26,13 +27,13 @@ Premium digital storefront and WhatsApp inquiry platform for **Raj Dryfruits & M
 
 ### 3. Responsive Header & Navigation
 - **Desktop**: 3-part layout with mathematically centered navigation links, subtle matte maroon hover transitions, and active page pill indicators.
-- **Mobile**: Left-aligned brand identity, compact cart count icon, and a slide-out mobile drawer with comfortable $\ge 44\text{px}$ touch targets.
+- **Mobile**: Left-aligned brand identity, compact cart count icon, and a slide-out mobile drawer with comfortable touch targets.
 
 ---
 
 ## Tech Stack
 - **Framework**: Next.js 15 (App Router, Static Site Generation)
-- **UI & Styling**: React 19, Tailwind CSS, Lucide / Custom SVG Glyphs
+- **UI & Styling**: React 19, Tailwind CSS
 - **Typography**: Cormorant Garamond (Serif), Outfit (Sans), Great Vibes (Script)
 - **Deployment**: Static output optimized for Vercel, Node.js, or any static host
 
@@ -60,4 +61,4 @@ npm run start
 ---
 
 ## License
-Private property of Raj Dryfruits & Mukhwas, Ahmedabad. All rights reserved.
+Private property of Krishna Dry Fruits & More, Ahmedabad. All rights reserved.

@@ -14,11 +14,16 @@ export function BrandMark({ className = "" }: { className?: string }) {
       >
         <svg viewBox="0 0 32 32" className="h-4 w-4 sm:h-[18px] sm:w-[18px]" fill="none">
           <path
-            d="M16 5c2.2 3.4 7 6.2 7 11.2A7 7 0 1 1 9 16.2C9 11.2 13.8 8.4 16 5Z"
+            d="M16 4C11.5 8 8 13.2 8 18a8 8 0 0 0 16 0c0-4.8-3.5-10-8-14Z"
             stroke="currentColor"
             strokeWidth="1.6"
           />
-          <path d="M16 13.5v9" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+          <path
+            d="M16 11c-2 3.2-3.2 6.2-2.5 9m2.5-9c2 3.2 3.2 6.2 2.5 9"
+            stroke="currentColor"
+            strokeWidth="1.4"
+            strokeLinecap="round"
+          />
         </svg>
       </span>
       <div className="flex flex-col">
@@ -26,7 +31,7 @@ export function BrandMark({ className = "" }: { className?: string }) {
           {BRAND}
         </span>
         <span className="hidden text-[9px] font-medium uppercase tracking-[0.16em] text-[#6E2635] min-[400px]:inline-block">
-          &amp; Mukhwas
+          &amp; More
         </span>
       </div>
     </Link>

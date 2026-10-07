@@ -27,7 +27,7 @@ export function inquiryMessage(lines: InquiryLine[], customer: CustomerDetails):
         .join("\n\n")
     : "No products selected yet.";
 
-  return `Hello Raj Dryfruits,
+  return `Hello Krishna Dry Fruits & More,
 
 I would like to inquire about the following products:
 
@@ -52,9 +52,9 @@ Thank you.`;
 }
 
 export function generalInquiryMessage(): string {
-  return `Hello Raj Dryfruits,
+  return `Hello Krishna Dry Fruits & More,
 
-I would like to inquire about your premium dry fruits, chocolates, coffee, tea and celebration boxes.
+I would like to inquire about your premium dry fruits, fresh nuts, mukhwas and celebration boxes.
 
 Please share availability and pricing details.
 

@@ -4,7 +4,7 @@ import { SearchResults } from "@/components/search-results";
 
 export const metadata: Metadata = {
   title: "Search",
-  description: "Search Raj dry fruits, chocolates, coffee and tea.",
+  description: "Search Krishna dry fruits, fresh nuts, chocolates, mukhwas and celebration boxes.",
 };
 
 export default function Page() {
